@@ -10,5 +10,4 @@ public class JournalAppApplication {
 
 		SpringApplication.run(JournalAppApplication.class, args);
 	}
-
 }
